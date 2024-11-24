@@ -1,5 +1,5 @@
 export const routes = {
-  MAIN: "MAIN",
-  DRIVERS: "DRIVERS",
-  INNER_DRIVER: "INNER_DRIVER",
-};
+  MAIN: 'MAIN',
+  ALL_PRODUCTS: 'ALL_PRODUCTS',
+  PRODUCT: 'PRODUCT',
+}

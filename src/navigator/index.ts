@@ -1,3 +1,3 @@
-import Navigator from "./routesNavigator/navigator";
-import NavContainer from "./containterNavigator/nav-container";
-export { Navigator, NavContainer };
+import Navigator from './routesNavigator/Navigator'
+import NavContainer from './ContainterNavigator/NavContainer'
+export { Navigator, NavContainer }

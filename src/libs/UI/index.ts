@@ -1,3 +1,3 @@
-import Text from "./text";
-import VisibleImage from "./visibleImage";
-export { Text, VisibleImage };
+import Text from './Text'
+import VisibleImage from './VisibleImage'
+export { Text, VisibleImage }

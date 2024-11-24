@@ -1,4 +1,5 @@
-import useGetCurrentTheme from "./use-init-project/use-get-current-theme";
-import useReachable from "./use-init-project/use-reachable";
+import useReachable from './use-init-project/use-reachable'
+import { usePagination } from './use-pagination/use-pagination'
+import { useInput } from './use-input'
 //
-export { useGetCurrentTheme, useReachable };
+export { useReachable, usePagination, useInput }
